@@ -7,7 +7,7 @@ window.CONFIG = {
     numero: "+5511932019567", // DDI+DDD+numero, só dígitos. NÃO reutilizar contatos do convite-base.
     mensagem: "Olá! Gostaria de confirmar minha presença no aniversário de 15 anos da Lili, em 13/02/2027."
   },
-  mapa: "", // Link REAL do local da festa
+  mapa: "https://www.google.com/maps/place/R.+Francisco+de+Melo+Palheta,+1271+-+Parque+Boa+Esperan%C3%A7a,+S%C3%A3o+Paulo+-+SP,+08341-235/@-23.6036805,-46.4518006,21z/data=!4m6!3m5!1s0x94ce68a6825f85a9:0xc5eeed0d27a7a2d2!8m2!3d-23.6036655!4d-46.4517775!16s%2Fg%2F11p5tqb_h8?entry=ttu&g_ep=EgoyMDI2MTExNi4wIKXMDSoASAFQAw%3D%3D", // Link REAL do local da festa
   contatoCriador: {
     numero: "+5588988692212", // WhatsApp do Pedro Vieira; DDI + DDD + numero, só dígitos
     mensagem: "Olá, Pedro Vieira! Gostei do convite digital da Lili e quero saber mais sobre a criação de um convite personalizado."
