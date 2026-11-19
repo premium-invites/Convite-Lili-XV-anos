@@ -23,12 +23,12 @@ window.CONFIG = {
   },
   pix: {
     ativo: true,
-    chave: "11932019567", // Inserir a chave Pix real. Sem valor fictício.
-    posicao: {left:23.1, top:67.8, width:53.0, height:6.5}
+    chave: "11932019567",
+    posicao: {"left":24.621952379536875,"top":69.29892933618844,"width":49.956095240926246,"height":5.429336188436831}
   },
   info: { // botao Info da pagina de presentes
     ativo: true,
-    posicao: {left:50.3, top:76.5, width:35.7, height:6.0}
+    posicao: {"left":52.3926845218632,"top":77.67773019271948,"width":33.41707143069469,"height":5.250535331905781}
   },
   textos: {
     abrir: "Abrir convite",
@@ -42,12 +42,12 @@ window.CONFIG = {
     corTextoBotaoVoltar: "transparent"
   },
   botoesVoltar: {
-    presentes: {mostrarTexto:false, posicao:{left:13.1, top:76.5, width:35.4, height:6.0}}
+    presentes: { mostrarTexto:false, posicao: {"left":14.431708332094765,"top":77.57066381156316,"width":33.49755952557891,"height":5.250535331905781} },
   },
   hotspots: {
-    confirm: {left:11.8, top:64.2, width:23.0, height:13.0},
-    map: {left:36.6, top:64.2, width:25.4, height:13.0},
-    gift: {left:64.0, top:64.2, width:23.1, height:13.0}
+        confirm: { left:14.273172616747422, top:66.55546038543898, width:17.67316667162094, height:9.788008565310493 },
+        map: { left:41.736589280936954, top:66.44839400428266, width:17.2195059599893, height:9.788008565310493 },
+        gift: { left:67.42439285395797, top:66.44839400428266, width:18.15365476650516, height:10.21627408993576 }
   },
   contagem: {
     dataEvento: "2027-02-13T18:00:00",
