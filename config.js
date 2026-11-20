@@ -24,12 +24,9 @@ window.CONFIG = {
   pix: {
     ativo: true,
     chave: "11932019567",
-    posicao: {"left":24.621952379536875,"top":69.29892933618844,"width":49.956095240926246,"height":5.429336188436831}
+    posicao: {"left":25.002440474421096,"top":73.68865096359742,"width":47.86341071906305,"height":4.037473233404711}
   },
-  info: { // botao Info da pagina de presentes
-    ativo: true,
-    posicao: {"left":52.3926845218632,"top":77.67773019271948,"width":33.41707143069469,"height":5.250535331905781}
-  },
+  info: { ativo:true, posicao: {"left":52.58292856930531,"top":80.35438972162741,"width":33.226827383252584,"height":4.60813704496788} },
   textos: {
     abrir: "Abrir convite",
     pularVideo: "Pular vídeo",
@@ -42,7 +39,7 @@ window.CONFIG = {
     corTextoBotaoVoltar: "transparent"
   },
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":14.431708332094765,"top":77.57066381156316,"width":33.49755952557891,"height":5.250535331905781} },
+    presentes: { mostrarTexto:false, posicao: {"left":15.763416664189531,"top":80.78265524625267,"width":31.595119051157813,"height":3.9657387580299783} },
   },
   hotspots: {
         confirm: { left:14.273172616747422, top:66.55546038543898, width:17.67316667162094, height:9.788008565310493 },
