@@ -13,7 +13,7 @@ window.CONFIG = {
     mensagem: "Olá, Pedro Vieira! Gostei do convite digital da Lili e quero saber mais sobre a criação de um convite personalizado."
   },
   telas: {
-    video: true, // Ligue quando adicionar assets/video.mp4 da Lili
+    video: false, // Ligue quando adicionar assets/video.mp4 da Lili
     whatsapp: true,
     localizacao: true,
     presentes: true,
